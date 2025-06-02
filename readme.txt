@@ -1,3 +1,1 @@
-where is world?
-hahaha
-just
+This is a file for learning.
